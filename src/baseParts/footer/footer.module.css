@@ -1,0 +1,20 @@
+.main{
+    background-color: #000;
+    height: 135px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #b2b2b2;
+    font-size: 0.8em;
+}
+.main .container{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.main .container .links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+}

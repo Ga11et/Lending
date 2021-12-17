@@ -1,0 +1,47 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.slide{
+    background-color: #fff;
+    background-image: url('../../assets/macBlue.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1200px;
+}
+.slide .container{
+    margin: 90px 90px 0 0;
+    display: grid;
+    grid-template-columns: 821px 1fr;
+    height: 80%;
+}
+.slide .container .leftDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.slide .container .leftDiv img{
+    width: 100%;
+}
+.slide .container .rightDiv{
+    padding-top: 120px;
+    padding-left: 50px;
+}
+.slide .container .rightDiv h2{
+    margin-bottom: 0;
+    font-size: 4em;
+    color: #5684ef;
+}
+.slide .container .rightDiv h3{
+    margin-top: 0;
+    color: #5684efda;
+    padding-bottom: 50px;
+    font-size: 1.5em;
+}
+.slide .container .rightDiv p{
+    color: #5684efda;
+    padding-bottom: 50px;
+    padding-right: 70px;
+    font-size: 1.2em;
+}

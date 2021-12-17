@@ -1,0 +1,74 @@
+.main{
+    background-image: url('../../assets/background-3.jpg');
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main .container{
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+/* leftDiv */
+
+.main .container .leftDiv h2{
+    font-size: 84px;
+    font-weight: bold;
+    margin-top: 0;
+    color: #fff;
+}
+.main .container .leftDiv .address{
+    font-size: 18px;
+    color: #878787;
+}
+.main .container .leftDiv .contactInfo{
+    font-size: 30px;
+    color: #878787;
+}
+.main .container .leftDiv .contactInfo span{
+    color: #2ebaee;
+}
+.main .container .leftDiv .circles{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* rightDiv */
+
+.main .container .rightDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main .container .rightDiv input,
+.main .container .rightDiv textarea{
+    height: 64px;
+    background: rgba(0,0,0,0);
+    border: 2px solid #535353;
+    width: 100%;
+    padding-left: 20px;
+    color: #fff;
+    font-size: 18px;
+    margin: 20px 0 0 0;
+}
+.main .container .rightDiv input::placeholder,
+.main .container .rightDiv textarea::placeholder{
+    color: rgba(255, 255, 255, 0.726);
+    font-size: 0.8em;
+}
+.main .container .rightDiv textarea{
+    height: 200px;
+    resize: none;
+    padding-top: 20px;
+    font-family: inherit;
+}
+.main .container .rightDiv button{
+    padding-top: 20px;
+    background: transparent;
+    outline: none;
+    border: 0;
+}

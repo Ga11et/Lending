@@ -1,0 +1,42 @@
+.ourTeam{
+    display: flex;
+    justify-content: center;
+}
+.ourTeam .container{
+    width: 80%;
+    padding: 50px 0 150px;
+}
+.ourTeam .container .h21{
+    font-size: 84px;
+    font-weight: bold;
+    color: #242424;
+    margin: 0;
+    padding: 0 0 0 30px;
+}
+.ourTeam .container .h22{
+    font-size: 84px;
+    font-weight: bold;
+    color: #2ebaee;
+    margin: 0;
+    padding: 0 0 120px 30px;
+}
+.ourTeam .container .teammates{
+    display: flex;
+    justify-content: space-between;
+}
+.ourTeam .container .teammates .member{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ourTeam .container .teammates .member h3{
+    color: #242424;
+    font-size: 36px;
+    margin-bottom: 0;
+    font-weight: normal;
+}
+.ourTeam .container .teammates .member p{
+    color: #878787;
+    font-size: 14px;
+    margin-top: 0;
+}

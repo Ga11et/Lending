@@ -1,0 +1,102 @@
+.main{
+    background-image: url('../../assets/background-2.png');
+	background-position: bottom;
+	height: 2142px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 80%;
+}
+.container > h2{
+	width: 100%;
+	text-align: center;
+	font-size: 48px;
+	color: #242424;
+	margin: 0px;
+	padding: 80px 0;
+	border-bottom: 1px solid #e7e7e7;
+	font-weight: normal;
+}
+.servises{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding-bottom: 50px;
+}
+.computer{
+	padding-top: 200px;
+	width: 100%;
+	display: grid;
+	grid-template-columns: 40% 60%;
+	justify-items: center;
+}
+.pad{
+	padding-top: 200px;
+	width: 100%;
+	display: grid;
+	grid-template-columns: 60% 40%;
+	justify-items: left;
+}
+.computer > div > h2{
+	text-align: left;
+	font-size: 36px;
+	color: #242424;
+	font-weight: normal;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+.computer > div > p{
+	color: #878787;
+    font-size: 14px;
+    line-height: 30px;
+    margin: 0px;
+    padding-bottom: 50px;
+}
+.pad > div > h2{
+	text-align: left;
+	font-size: 36px;
+	color: #fff;
+	font-weight: normal;
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+.pad > div > p{
+	color: #fff;
+    font-size: 14px;
+    line-height: 30px;
+    margin: 0px;
+    padding-bottom: 50px;
+}
+.boy{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.boy .leftDiv > img{
+	width: 100%;
+}
+.boy .rightDiv{
+	padding: 6em;
+}
+.boy .rightDiv > h2{
+	text-align: left;
+	font-size: 72px;
+	color: #000;
+	font-weight: normal;
+	padding-bottom: 50px;
+	padding-top: 0px;
+	margin: 0;
+}
+.boy .rightDiv > p{
+	color: #8787;
+    font-size: 14px;
+    line-height: 30px;
+    margin: 0px;
+    padding-bottom: 50px;
+}
