@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Lending/static/css/main.06f363e7.chunk.css",
+    "main.js": "/Lending/static/js/main.e7b54bd1.chunk.js",
+    "main.js.map": "/Lending/static/js/main.e7b54bd1.chunk.js.map",
+    "runtime-main.js": "/Lending/static/js/runtime-main.2d828fa7.js",
+    "runtime-main.js.map": "/Lending/static/js/runtime-main.2d828fa7.js.map",
+    "static/css/2.aab790f3.chunk.css": "/Lending/static/css/2.aab790f3.chunk.css",
+    "static/js/2.059a10f8.chunk.js": "/Lending/static/js/2.059a10f8.chunk.js",
+    "static/js/2.059a10f8.chunk.js.map": "/Lending/static/js/2.059a10f8.chunk.js.map",
+    "static/js/3.f05d9825.chunk.js": "/Lending/static/js/3.f05d9825.chunk.js",
+    "static/js/3.f05d9825.chunk.js.map": "/Lending/static/js/3.f05d9825.chunk.js.map",
+    "index.html": "/Lending/index.html",
+    "static/css/2.aab790f3.chunk.css.map": "/Lending/static/css/2.aab790f3.chunk.css.map",
+    "static/css/main.06f363e7.chunk.css.map": "/Lending/static/css/main.06f363e7.chunk.css.map",
+    "static/js/2.059a10f8.chunk.js.LICENSE.txt": "/Lending/static/js/2.059a10f8.chunk.js.LICENSE.txt",
+    "static/media/servises.module.css": "/Lending/static/media/background-2.3207403e.png",
+    "static/media/form.module.css": "/Lending/static/media/background-3.c2589cbc.jpg",
+    "static/media/Header.module.css": "/Lending/static/media/background-top.496c46d6.jpg",
+    "static/media/boy.ac92f5b9.jpg": "/Lending/static/media/boy.ac92f5b9.jpg",
+    "static/media/mac.2819eba6.png": "/Lending/static/media/mac.2819eba6.png",
+    "static/media/slider.module.css": "/Lending/static/media/macBlue.8f2fb92e.png",
+    "static/media/pad.ca5f0db4.png": "/Lending/static/media/pad.ca5f0db4.png",
+    "static/media/pc.3b9deca2.png": "/Lending/static/media/pc.3b9deca2.png",
+    "static/media/person-1.bdae79e9.png": "/Lending/static/media/person-1.bdae79e9.png",
+    "static/media/person-2.fa6379cd.png": "/Lending/static/media/person-2.fa6379cd.png",
+    "static/media/person-3.75205ae7.png": "/Lending/static/media/person-3.75205ae7.png",
+    "static/media/person-4.975b1dec.png": "/Lending/static/media/person-4.975b1dec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d828fa7.js",
+    "static/css/2.aab790f3.chunk.css",
+    "static/js/2.059a10f8.chunk.js",
+    "static/css/main.06f363e7.chunk.css",
+    "static/js/main.e7b54bd1.chunk.js"
+  ]
+}
